@@ -38,9 +38,6 @@
 ### Setup
 ```bash
 git clone https://github.com/hiu154/Cloth.git
-pip install -r requirements.txt
-
-
 
 
 # Install dependencies
